@@ -6,13 +6,11 @@
 /*   By: nprudenc <nprudenc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/24 13:31:56 by nprudenc          #+#    #+#             */
-/*   Updated: 2023/06/26 12:03:23 by nprudenc         ###   ########.fr       */
+/*   Updated: 2023/06/26 13:00:36 by nprudenc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-// #include "ft_printf.h"
-#include <unistd.h>
-#include <stdio.h>
+#include "ft_printf.h"
 
 int	ft_putchar(char c)
 {	
